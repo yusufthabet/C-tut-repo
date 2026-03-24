@@ -1,0 +1,15 @@
+/workspaces/C-tut-repo/bin/Debug/net9.0/HelloWorld
+/workspaces/C-tut-repo/bin/Debug/net9.0/HelloWorld.deps.json
+/workspaces/C-tut-repo/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/workspaces/C-tut-repo/bin/Debug/net9.0/HelloWorld.dll
+/workspaces/C-tut-repo/bin/Debug/net9.0/HelloWorld.pdb
+/workspaces/C-tut-repo/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-tut-repo/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/workspaces/C-tut-repo/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/workspaces/C-tut-repo/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/workspaces/C-tut-repo/obj/Debug/net9.0/HelloWorld.sourcelink.json
+/workspaces/C-tut-repo/obj/Debug/net9.0/HelloWorld.dll
+/workspaces/C-tut-repo/obj/Debug/net9.0/refint/HelloWorld.dll
+/workspaces/C-tut-repo/obj/Debug/net9.0/HelloWorld.pdb
+/workspaces/C-tut-repo/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/workspaces/C-tut-repo/obj/Debug/net9.0/ref/HelloWorld.dll
